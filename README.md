@@ -1,6 +1,6 @@
 # Bartender boilerplate for Harp
 
-Bartender is a Sass and EJS based boilerplate. Specifically it uses Bourbon and Neat from thoughtbot.
+Bartender is a Sass and EJS based boilerplate. Specifically it uses [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/) from [thoughtbot](https://thoughtbot.com/).
 
 ## Usage
 Once you have Harp installed, using Bartender is super easy. All you have to do is init a new project using the `--boilerplate` or `-b` flag.
